@@ -1,12 +1,17 @@
 ##Hello 😃
 
-Learning is very interesting. There are difficult tasks, but after you complete them, your mood rises.
+Recently I downloaded a Linux OS , so this lesson was extreamly interesting for me.
 
-Git was completely new to me.)
+It was new for me, and of course I was surprised by this OS.
 
-On the courses, I was surprised by the fact that it is possible to clone repositories. I was also surprised by how the Putty program works
+So, I will use it instead of Windows ))
 
-So I will definitely use Linux in the future.
+Here are the screenshot links about a Linux coure that I have been passed:
 
-Thank you very much for the opportunity to study.
-Good luck with your studies  to everyone.👌
+ 
+https://imgur.com/bQVZWUZ.png
+https://imgur.com/c1PNUwa.png
+https://imgur.com/c1PNUwa.png
+https://imgur.com/fLpvNlf.png
+
+Thank you again for givin me an opportunity to study.
