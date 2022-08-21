@@ -29,3 +29,16 @@ However, the learngitbranching.js.org tasks were cool and CS50 great lesson whic
 3) Defenitely, I will use the Git since it will be the part of my job.
 Best Regards, 
 Oleh
+
+
+##  Intro to HTML and CSS
+
+1) It was super-long, but was preety easy tasks.
+2) The new was about CSS important rule
+3) Want to use HTML and CSS to build interesting styles 
+
+
+Here are the links about my passed courses:
+a)learn HTML - https://i.imgur.com/JzEoTXy.png
+b)learn CSS - https://imgur.com/tcy6Ovv.png
+c)compleated 1 and 2 weeks - https://imgur.com/eOzH2oz.png
