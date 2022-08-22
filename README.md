@@ -36,7 +36,7 @@ Best Regards,
 Oleh
 
 
-##  Intro to HTML and CSS
+##  3 Intro to HTML and CSS
 
 1) It was super-long, but was preety easy tasks.
 2) The new was about CSS important rule
@@ -47,3 +47,13 @@ Here are the links about my passed courses:
 a)learn HTML - https://i.imgur.com/JzEoTXy.png
 b)learn CSS - https://imgur.com/tcy6Ovv.png
 c)compleated 1 and 2 weeks - https://imgur.com/eOzH2oz.png
+
+## 4 ## Responsive Web Design
+
+The new thing was grid layout, I have never used it before.
+I was surprised by the flexbox commands
+Will use both: flexbox and grid commands. 
+
+Here are the links about my passed courses:
+a)https://imgur.com/QIi7FEy.png
+b) https://imgur.com/Jz6ZAUd.png
