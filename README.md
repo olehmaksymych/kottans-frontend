@@ -1,4 +1,9 @@
-### Linux CLI, and HTTP 😃
+### 0 Git & GitHub
+
+The Git Basic 2 weeks have been successfully passed.
+Here is a screen - https://imgur.com/nYi9AJU.png
+
+### 1 Linux CLI, and HTTP 😃
 
 Recently I downloaded a Linux OS , so this lesson was extreamly interesting for me.
 
@@ -16,7 +21,7 @@ https://imgur.com/fLpvNlf.png
 
 Thank you again for givin me an opportunity to study.
 
-## Git Collaboration
+## 2 Git Collaboration
 
 The reference to the screenshot: 
 https://imgur.com/6LYpPwO.png
