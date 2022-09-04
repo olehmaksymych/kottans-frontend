@@ -57,3 +57,24 @@ Will use both: flexbox and grid commands.
 Here are the links about my passed courses:
 a)https://imgur.com/QIi7FEy.png
 b) https://imgur.com/Jz6ZAUd.png
+
+
+## 5 HTML&CSS practice
+
+Here is a pull request link for HTML practice - https://github.com/kottans/frontend-2022-homeworks/pull/333
+
+
+
+## 6 JS Basics
+
+1)Basic JavaScrip - https://i.imgur.com/jwMLsFf.png
+2)ES6 Challenges - https://i.imgur.com/TKoYvyL.png
+3) Basic Data Structures -  https://i.imgur.com/L1GyDJc.png
+4)Basic Algorithm Scripting - https://i.imgur.com/FdWxE88.png
+5)Functional Programming - https://i.imgur.com/qI23yN8.png
+6)Algorithm Scripting Challenges - https://i.imgur.com/dDABVLR.png
+
+1) The new thing was a FreCodeCamp and all the tasks at all.
+2) The map, filter, reduce, slice and other methods are wondered me.
+3) All the methods above will use in practive definitely.
+
