@@ -3,6 +3,8 @@
 The Git Basic 2 weeks have been successfully passed.
 Here is a screen - https://imgur.com/nYi9AJU.png
 
+Here is a link for my repo - https://github.com/olehmaksymych/mock-repo
+
 ### 1 Linux CLI, and HTTP 😃
 
 Recently I downloaded a Linux OS , so this lesson was extreamly interesting for me.
@@ -61,6 +63,8 @@ b) https://imgur.com/Jz6ZAUd.png
 
 ## 5 HTML&CSS practice
 
+Demo - https://olehmaksymych.github.io/html_popup/
+Code base - https://github.com/olehmaksymych/html_popup
 Here is a pull request link for HTML practice - https://github.com/kottans/frontend-2022-homeworks/pull/333
 
 
@@ -68,13 +72,25 @@ Here is a pull request link for HTML practice - https://github.com/kottans/front
 ## 6 JS Basics
 
 1)Basic JavaScrip - https://i.imgur.com/jwMLsFf.png
+
 2)ES6 Challenges - https://i.imgur.com/TKoYvyL.png
+
 3) Basic Data Structures -  https://i.imgur.com/L1GyDJc.png
+
 4)Basic Algorithm Scripting - https://i.imgur.com/FdWxE88.png
+
 5)Functional Programming - https://i.imgur.com/qI23yN8.png
+
 6)Algorithm Scripting Challenges - https://i.imgur.com/dDABVLR.png
 
 1) The new thing was a FreCodeCamp and all the tasks at all.
 2) The map, filter, reduce, slice and other methods are wondered me.
 3) All the methods above will use in practive definitely.
 
+## 7 DOM
+The screen of 12-18 tasks :
+https://i.imgur.com/99ouesm.png
+
+Demo - https://olehmaksymych.github.io/dom/
+Code base - https://github.com/olehmaksymych/dom
+Here is a pull request link for DOM (Document Object Model) - https://github.com/kottans/frontend-2022-homeworks/pull/462 
